@@ -1,8 +1,4 @@
 #EXTM3U
-
-
-
-
 #EXTINF:-1 tvg-name="Runtime Ação" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_action_bg.png" ,Runtime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-name="Runtime Comédia" tvg-logo="https://img.inboxbr.pro/icones_channels/br_comedy_bg.png" ,Runtime Comédia
