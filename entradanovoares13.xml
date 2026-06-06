@@ -30,6 +30,14 @@
 </channel>
 
 <channel>  
+<name>[COLOR red]ADDON ARESNOVO13 [/COLOR] [COLOR orange] [COLOR orange] FILMES 4k[/COLOR]</name>
+<thumbnail>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpg</thumbnail>
+<fanart>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/aresnovo13/refs/heads/main/filmes4k.xml</externallink>
+</channel>
+    
+<channel>  
 <name>[COLOR orange]ADDON ARESNOVO13 [/COLOR] [COLOR orange] [COLOR orange] FILMES AÇÂO[/COLOR]</name>
 <thumbnail>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.png</thumbnail>
 <fanart>https://archive.org/download/aresfilmesmisterio/aresfilmesacao.png</fanart>
