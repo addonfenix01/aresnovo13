@@ -75,6 +75,14 @@
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/aresnovo13/refs/heads/main/colecoes.xml</externallink>
 </channel>
+
+<channel>  
+<name>[COLOR green]ADDON ARESNOVO13 [/COLOR] [COLOR orange] [COLOR orange] FILMES DIRETOS[/COLOR]</name>
+<thumbnail>https://archive.org/download/aresfilmesclassicos/aresfilmesclassicos.png</thumbnail>
+<fanart>https://archive.org/download/aresfilmesclassicos/aresfilmesclassicos.png</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/aresnovo13/refs/heads/main/filmesdireto.xml</externallink>
+</channel>
     
 <channel>  
 <name>[COLOR green]ADDON ARESNOVO13 [/COLOR] [COLOR orange] SÉRIES 2026 [/COLOR]</name>
